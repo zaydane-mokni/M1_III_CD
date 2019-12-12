@@ -117,7 +117,6 @@ jobs:
           command: echo todo && false
       - run:
           name: Smoke Test
-          command: echo todo && false
 
 workflows:
   version: 2
